@@ -1,0 +1,32 @@
+.fill-height {
+    height:100%;
+    
+}
+.fill-width {
+    width:100%;
+}
+.viewport-main-window {
+    height:480px; 
+}
+
+.viewport-text-chooser {
+    text-align:center;
+    font-size:1.5em;
+    color:grey;
+}
+.text-selector-choice {
+    font-size:1em;
+    text-align:center;
+    color:lightgrey;
+}
+.text-selector-cursor {
+    color:black;
+}
+
+.navigator .viewport {
+    fill:blue;
+    fill-opacity:0.2;
+}
+.x.axis line {
+    stroke-width:2px;
+}
